@@ -14,11 +14,11 @@ Responsible for the pre-investment and post-investment related work of domestic 
 </h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
+  <li><autocolor> Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
 making and implementing proactive risk management strategies. Efficiently navigated the credit bond crash at the end of 2022, resulting in a capital gain of 300 million yuan
 </autocolor></a></li>
-  <li><a Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></a></li>
-  <li><a Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></a></li>
+  <li><autocolor> Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></a></li>
+  <li><autocolor> Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
