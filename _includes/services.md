@@ -13,11 +13,13 @@
 Responsible for the pre-investment and post-investment related work of domestic credit bonds, including investment analysis, price prediction, return analysis, and investment allowlist updates
 </h4>
 
-<h4 style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</h4>
+<ul style="margin:0 0 5px;">
+  <li><a Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
+making and implementing proactive risk management strategies. Efficiently navigated the credit bond crash at the end of 2022, resulting in a capital gain of 300 million yuan
+</autocolor></a></li>
+  <li><a Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></a></li>
+  <li><a Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
