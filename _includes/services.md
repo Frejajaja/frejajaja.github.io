@@ -16,14 +16,23 @@ Responsible for the pre-investment and post-investment related work of domestic 
 <ul style="margin:0 0 5px;">
   <li><autocolor> Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
 making and implementing proactive risk management strategies. Efficiently navigated the credit bond crash at the end of 2022, resulting in a capital gain of 300 million yuan
-</autocolor></a></li>
-  <li><autocolor> Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></a></li>
-  <li><autocolor> Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></a></li>
+</autocolor></li>
+  <li><autocolor> Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></li>
+  <li><autocolor> Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>Bank of Chengdu Co., Ltd</span>
+  <span>Chengdu, China</span>
+</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>Financial Market Center Officer</span>
+  <span> 2014.07-2019.09</span>
+</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+<ul style="margin:0 0 5px;">
+  <li><autocolor> Responsible for pre-transaction approval of trading permissions, limits, and prices for various businesses in the financial market, monitoring different limits, tracking valuation changes, and timely warning and handling of unfavorable fluctuations
+</autocolor></li>
+  <li><autocolor> Acknowledged the overall control methods and architecture of the financial market business</autocolor></li>
+  <li><autocolor> Completed the development and optimization of daily limit monitoring software, construction of market risk management framework, and development of management software</autocolor></li>
 </ul>
