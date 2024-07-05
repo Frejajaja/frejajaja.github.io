@@ -9,9 +9,9 @@
   <span>2019.09-2023.10</span>
 </h4>
 
-<h4 style="margin:0 0 5px;">
+<h5 style="margin:0 0 5px;">
 Responsible for the pre-investment and post-investment related work of domestic credit bonds, including investment analysis, price prediction, return analysis, and investment allowlist updates
-</h4>
+</h5>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor> Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
