@@ -20,10 +20,12 @@ Experienced finance professional with almost 10-year expertise in the financial 
 
 
 ## Honors & Awards
-<h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+<ul>
+  <li><h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
   <span>Honorable Mentions in Mathematical Contest In Modeling (MCM/ICM)</span>
   <span> 2012.04</span>
-</h4>
+</h4></li>
+</ul>
 - Honorable Mentions in Mathematical Contest In Modeling (MCM/ICM)                                                            2012.04
 - National 2nd Prize in National College Students Mathematical Contest in Modeling	                                          2011.10
 - 2nd Prize in Postal Savings Bank of China College Student Entrepreneurship Program Workshop                                 2011.12
