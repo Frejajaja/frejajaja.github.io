@@ -25,10 +25,22 @@ Experienced finance professional with almost 10-year expertise in the financial 
   <span>Honorable Mentions in Mathematical Contest In Modeling (MCM/ICM)</span>
   <span> 2012.04</span>
 </h4></li>
+  <li><h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>National 2nd Prize in National College Students Mathematical Contest in Modeling</span>
+  <span> 2011.10</span>
+</h4></li>
+  <li><h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>2nd Prize in Postal Savings Bank of China College Student Entrepreneurship Program Workshop</span>
+  <span> 2011.12</span>
+</h4></li>
+  <li><h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>National Champion & Winner of the Southwest Division in SIFE China</span>
+  <span> 2012.06</span>
+</h4></li>
+  <li><h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>Outstanding Assistant of Xiamen University Graduate Employment Guidance</span>
+  <span> 2011-2012</span>
+</h4></li>
 </ul>
-- Honorable Mentions in Mathematical Contest In Modeling (MCM/ICM)                                                            2012.04
-- National 2nd Prize in National College Students Mathematical Contest in Modeling	                                          2011.10
-- 2nd Prize in Postal Savings Bank of China College Student Entrepreneurship Program Workshop                                 2011.12
-- National Champion & Winner of the Southwest Division in SIFE China                                                          2012.06
-- Outstanding Assistant of Xiamen University Graduate Employment Guidance                                                     2011-2012
+
 
