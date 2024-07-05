@@ -1,7 +1,13 @@
 ## Work Experience
 
-<h4 style="margin:0 10px 0;">Bank of Chengdu Co., Ltd                                                                                                                                  Chengdu, China </h4>
-<h4 style="margin:0 10px 0;">Trader/Credit Assessor                                                                                                                              	         2019.09-2023.10 </h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>Bank of Chengdu Co., Ltd</span>
+  <span>Chengdu, China</span>
+</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0 10px 0;">
+  <span>Trader/Credit Assessor</span>
+  <span>2019.09-2023.10</span>
+</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
