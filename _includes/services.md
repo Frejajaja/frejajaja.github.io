@@ -15,9 +15,9 @@ Responsible for the pre-investment and post-investment related work of domestic 
 
 <ul style="margin:0 0 5px;">
   <li><autocolor> Use credit bond models to analyze investment targets and track their changes. Participated in venture capital decision-
-making and implementing proactive risk management strategies. Efficiently navigated the credit bond crash at the end of 2022, resulting in a capital gain of 300 million yuan
+making and implementing proactive risk management strategies. Average daily assets under management amount to approximately 60 billion yuan, with an investment return rate of about 5%. Efficiently navigated the credit bond crash at the end of 2022, resulting in a capital gain of 300 million yuan
 </autocolor></li>
-  <li><autocolor> Collaborated to develop transaction management system, improving approval and control efficiency</autocolor></li>
+  <li><autocolor> Collaborated to develop transaction management system, improving approval and control efficiency. (Average time decrease from 5 days to 2 days.)</autocolor></li>
   <li><autocolor> Familiar with domestic credit bond issuance process, obtained contact information and first-hand information of various bond underwriters across the country</autocolor></li>
 </ul>
 
